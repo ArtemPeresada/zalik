@@ -20,6 +20,6 @@ def find_values_above_threshold(file_path, threshold):
 
 threshold_value = int(input("Введіть значення AAA: "))
 
-file_path = "workpy"  
+file_path = "workpy"
 
 find_values_above_threshold(file_path, threshold_value)
